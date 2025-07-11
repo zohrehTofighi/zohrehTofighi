@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZohrehTofighi
-- 👀 I’m interested in Data Science & Machine learning
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on companies which are work on some projects related to Machine learning & Data Science
+- 👀 I have a strong interest in data-related fields such as analysis, visualization, and modeling
+- 🌱 To deepen my expertise in data analysis, I’m currently learning industry-relevant tools and keeping my skill set up to date
+- 💞️ I’m interested in working with organizations that focus on data-related challenges and solutions
 - 📫 I'm available via Email, LinkedIn and Kaggle
 
 <!---
